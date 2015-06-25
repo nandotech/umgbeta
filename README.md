@@ -11,6 +11,6 @@ Product List & Products are tied to static json file that lives on the server.
 
 UI-Router used instead of ngRoute (https://github.com/angular-ui/ui-router)
 
-Live test link can be found @ http://umgbeta.azurewebsites.net
+Live test link can be found @ http://umgbetaclient.azurewebsites.net
 
 That is all for this simple mockup, thanks for checking it out!
