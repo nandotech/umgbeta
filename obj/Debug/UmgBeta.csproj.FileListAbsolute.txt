@@ -1,0 +1,138 @@
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\UmgBeta.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\UmgBeta.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\UmgBeta.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Antlr3.Runtime.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Newtonsoft.Json.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Owin.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Helpers.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Http.Owin.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Optimization.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Razor.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\WebGrease.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Newtonsoft.Json.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Helpers.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Optimization.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Razor.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Antlr3.Runtime.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Http.Owin.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\obj\Debug\UmgBeta.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\obj\Debug\UmgBeta.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\obj\Debug\UmgBeta.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Cors.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Http.Cors.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\UmgBeta\bin\System.Web.Http.Cors.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.OData.Core.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.OData.Edm.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.Spatial.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\System.Web.OData.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.OData.Core.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.OData.Edm.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\Microsoft.Spatial.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\System.Web.OData.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\umgbeta\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\UmgBeta.dll.config
+C:\VSCode\umgbeta\bin\UmgBeta.dll
+C:\VSCode\umgbeta\bin\UmgBeta.pdb
+C:\VSCode\umgbeta\bin\Microsoft.OData.Core.dll
+C:\VSCode\umgbeta\bin\Microsoft.OData.Edm.dll
+C:\VSCode\umgbeta\bin\Microsoft.Spatial.dll
+C:\VSCode\umgbeta\bin\Microsoft.Web.Infrastructure.dll
+C:\VSCode\umgbeta\bin\Newtonsoft.Json.dll
+C:\VSCode\umgbeta\bin\System.Web.OData.dll
+C:\VSCode\umgbeta\bin\Microsoft.OData.Core.xml
+C:\VSCode\umgbeta\bin\Microsoft.OData.Edm.xml
+C:\VSCode\umgbeta\bin\Microsoft.Spatial.xml
+C:\VSCode\umgbeta\bin\Newtonsoft.Json.xml
+C:\VSCode\umgbeta\bin\System.Web.OData.xml
+C:\VSCode\umgbeta\bin\Microsoft.Web.Infrastructure.xml
+C:\VSCode\umgbeta\bin\de\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\es\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\fr\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\it\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\ja\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\ko\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\ru\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\VSCode\umgbeta\bin\de\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\es\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\it\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\VSCode\umgbeta\bin\de\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\es\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\fr\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\it\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\ja\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\ko\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\ru\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\VSCode\umgbeta\obj\Debug\UmgBeta.dll
+C:\VSCode\umgbeta\obj\Debug\UmgBeta.pdb
+C:\VSCode\umgbeta\obj\Debug\UmgBeta.csprojResolveAssemblyReference.cache
