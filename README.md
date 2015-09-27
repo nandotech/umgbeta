@@ -13,4 +13,6 @@ UI-Router used instead of ngRoute (https://github.com/angular-ui/ui-router)
 
 Live test link can be found @ http://umgbetaclient.azurewebsites.net
 
+Profile @ http://hackhands.com/nandotech
+
 That is all for this simple mockup, thanks for checking it out!
